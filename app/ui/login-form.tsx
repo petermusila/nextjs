@@ -71,10 +71,3 @@ function LoginButton() {
     </Button>
   );
 }
-.shape {
-  height: 0;
-  width: 0;
-  border-bottom: 30px solid black;
-  border-left: 20px solid transparent;
-  border-right: 20px solid transparent;
-}
